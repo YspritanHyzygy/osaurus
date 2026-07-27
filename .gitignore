@@ -1,0 +1,6 @@
+build/
+*.pyc
+__pycache__/
+results/
+reports/
+App/osaurus/Secrets.xcconfig
